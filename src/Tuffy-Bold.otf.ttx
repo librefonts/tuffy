@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Tuffy-Bold.otf.GlyphOrder.ttx"/>
+  <head src="Tuffy-Bold.otf._h_e_a_d.ttx"/>
+  <hhea src="Tuffy-Bold.otf._h_h_e_a.ttx"/>
+  <maxp src="Tuffy-Bold.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Tuffy-Bold.otf.O_S_2f_2.ttx"/>
+  <name src="Tuffy-Bold.otf._n_a_m_e.ttx"/>
+  <cmap src="Tuffy-Bold.otf._c_m_a_p.ttx"/>
+  <post src="Tuffy-Bold.otf._p_o_s_t.ttx"/>
+  <CFF src="Tuffy-Bold.otf.C_F_F_.ttx"/>
+  <FFTM src="Tuffy-Bold.otf.F_F_T_M_.ttx"/>
+  <hmtx src="Tuffy-Bold.otf._h_m_t_x.ttx"/>
+  <kern src="Tuffy-Bold.otf._k_e_r_n.ttx"/>
+  <prop src="Tuffy-Bold.otf._p_r_o_p.ttx"/>
+</ttFont>

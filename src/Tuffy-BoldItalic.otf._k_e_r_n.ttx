@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="C" v="-80"/>
+      <pair l="A" r="T" v="-98"/>
+      <pair l="A" r="V" v="-213"/>
+      <pair l="A" r="v" v="-164"/>
+      <pair l="A" r="w" v="-94"/>
+      <pair l="E" r="R" v="41"/>
+      <pair l="G" r="T" v="-68"/>
+      <pair l="K" r="O" v="-109"/>
+      <pair l="O" r="A" v="-98"/>
+      <pair l="O" r="T" v="-113"/>
+      <pair l="P" r="A" v="-137"/>
+      <pair l="T" r="A" v="-111"/>
+      <pair l="T" r="u" v="-135"/>
+      <pair l="V" r="A" v="-244"/>
+      <pair l="V" r="E" v="-70"/>
+      <pair l="V" r="e" v="-66"/>
+      <pair l="W" r="A" v="-96"/>
+      <pair l="W" r="e" v="-27"/>
+      <pair l="Y" r="A" v="-190"/>
+      <pair l="Y" r="a" v="-127"/>
+      <pair l="a" r="v" v="-38"/>
+      <pair l="backslash" r="backslash" v="-143"/>
+      <pair l="e" r="t" v="-53"/>
+      <pair l="f" r="a" v="-80"/>
+      <pair l="f" r="n" v="-68"/>
+      <pair l="f" r="o" v="-41"/>
+      <pair l="f" r="t" v="-70"/>
+      <pair l="f" r="u" v="-82"/>
+      <pair l="f" r="y" v="-41"/>
+      <pair l="numbersign" r="dollar" v="-55"/>
+      <pair l="o" r="v" v="-26"/>
+      <pair l="o" r="x" v="-53"/>
+      <pair l="r" r="e" v="-33"/>
+      <pair l="slash" r="slash" v="-143"/>
+      <pair l="v" r="e" v="-45"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>

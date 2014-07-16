@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Tuffy-Italic.otf.GlyphOrder.ttx"/>
+  <head src="Tuffy-Italic.otf._h_e_a_d.ttx"/>
+  <hhea src="Tuffy-Italic.otf._h_h_e_a.ttx"/>
+  <maxp src="Tuffy-Italic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Tuffy-Italic.otf.O_S_2f_2.ttx"/>
+  <name src="Tuffy-Italic.otf._n_a_m_e.ttx"/>
+  <cmap src="Tuffy-Italic.otf._c_m_a_p.ttx"/>
+  <post src="Tuffy-Italic.otf._p_o_s_t.ttx"/>
+  <CFF src="Tuffy-Italic.otf.C_F_F_.ttx"/>
+  <FFTM src="Tuffy-Italic.otf.F_F_T_M_.ttx"/>
+  <feat src="Tuffy-Italic.otf._f_e_a_t.ttx"/>
+  <hmtx src="Tuffy-Italic.otf._h_m_t_x.ttx"/>
+  <kern src="Tuffy-Italic.otf._k_e_r_n.ttx"/>
+  <morx src="Tuffy-Italic.otf._m_o_r_x.ttx"/>
+  <prop src="Tuffy-Italic.otf._p_r_o_p.ttx"/>
+</ttFont>

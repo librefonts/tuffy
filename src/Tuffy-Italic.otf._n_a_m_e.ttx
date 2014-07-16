@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Created by Thatcher Ulrich (http://tulrich.com), Karoly Barta and Michael Everson with FontForge (http://fontforge.sf.net)&#10;&#10;Licensed under SIL OFL v1.1 (see LICENSE.txt)
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Tuffy
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Italic
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      FontForge : Tuffy Italic : 24-8-2011
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Tuffy Italic
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 001.270 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Tuffy-Italic
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Thatcher Ulrich, Karoly Barta and Michael Everson
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://tulrich.com&#10;
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://tulrich.com&#10;
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, and Michael Everson (http://www.evertype.com),&#10;with Reserved Font Name Tuffy.&#10;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#10;This license is copied below, and is also available with a FAQ at:&#10;http://scripts.sil.org/OFL&#10;&#10;&#10;-----------------------------------------------------------&#10;SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007&#10;-----------------------------------------------------------&#10;&#10;PREAMBLE&#10;The goals of the Open Font License (OFL) are to stimulate worldwide&#10;development of collaborative font projects, to support the font creation&#10;efforts of academic and linguistic communities, and to provide a free and&#10;open framework in which fonts may be shared and improved in partnership&#10;with others.&#10;&#10;The OFL allows the licensed fonts to be used, studied, modified and&#10;redistributed freely as long as they are not sold by themselves. The&#10;fonts, including any derivative works, can be bundled, embedded, &#10;redistributed and/or sold with any software provided that any reserved&#10;names are not used by derivative works. The fonts and derivatives,&#10;however, cannot be released under any other type of license. The&#10;requirement for fonts to remain under this license does not apply&#10;to any document created using the fonts or their derivatives.&#10;&#10;DEFINITIONS&#10;"Font Software" refers to the set of files released by the Copyright&#10;Holder(s) under this license and clearly marked as such. This may&#10;include source files, build scripts and documentation.&#10;&#10;"Reserved Font Name" refers to any names specified as such after the&#10;copyright statement(s).&#10;&#10;"Original Version" refers to the collection of Font Software components as&#10;distributed by the Copyright Holder(s).&#10;&#10;"Modified Version" refers to any derivative made by adding to, deleting,&#10;or substituting -- in part or in whole -- any of the components of the&#10;Original Version, by changing formats or by porting the Font Software to a&#10;new environment.&#10;&#10;"Author" refers to any designer, engineer, programmer, technical&#10;writer or other person who contributed to the Font Software.&#10;&#10;PERMISSION &amp; CONDITIONS&#10;Permission is hereby granted, free of charge, to any person obtaining&#10;a copy of the Font Software, to use, study, copy, merge, embed, modify,&#10;redistribute, and sell modified and unmodified copies of the Font&#10;Software, subject to the following conditions:&#10;&#10;1) Neither the Font Software nor any of its individual components,&#10;in Original or Modified Versions, may be sold by itself.&#10;&#10;2) Original or Modified Versions of the Font Software may be bundled,&#10;redistributed and/or sold with any software, provided that each copy&#10;contains the above copyright notice and this license. These can be&#10;included either as stand-alone text files, human-readable headers or&#10;in the appropriate machine-readable metadata fields within text or&#10;binary files as long as those fields can be easily viewed by the user.&#10;&#10;3) No Modified Version of the Font Software may use the Reserved Font&#10;Name(s) unless explicit written permission is granted by the corresponding&#10;Copyright Holder. This restriction only applies to the primary font name as&#10;presented to the users.&#10;&#10;4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font&#10;Software shall not be used to promote, endorse or advertise any&#10;Modified Version, except to acknowledge the contribution(s) of the&#10;Copyright Holder(s) and the Author(s) or with their explicit written&#10;permission.&#10;&#10;5) The Font Software, modified or unmodified, in part or in whole,&#10;must be distributed entirely under this license, and must not be&#10;distributed under any other license. The requirement for fonts to&#10;remain under this license does not apply to any document created&#10;using the Font Software.&#10;&#10;TERMINATION&#10;This license becomes null and void if any of the above conditions are&#10;not met.&#10;&#10;DISCLAIMER&#10;THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,&#10;EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF&#10;MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT&#10;OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE&#10;COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,&#10;INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL&#10;DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING&#10;FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM&#10;OTHER DEALINGS IN THE FONT SOFTWARE.
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0">
+      All Typographic Features
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0">
+      Ligatures
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0">
+      Fractions
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0">
+      All Type Features
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0">
+      Common Ligatures
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0">
+      No Fractions
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x0">
+      Diagonal Fractions
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x1">
+      NormalItalique
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x1">
+      Fonctions typographiques
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x1">
+      Ligatures
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x1">
+      Fractions
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x1">
+      Toutes fonctions typographiques
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x1">
+      Ligatures Usuelles
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x1">
+      Pas de Fractions
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x1">
+      Fractions en Diagonale
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x2">
+      StandardKursiv
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x2">
+      Alle typografischen M&#154;glichkeiten
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x2">
+      Ligaturen
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x2">
+      Alle Auszeichnungsarten
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x2">
+      Normale Ligaturen
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x2">
+      Kein Bruche
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x2">
+      Diagonaler Bruch
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x3">
+      NormaleCursivo
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x3">
+      Funzioni Tipografiche
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x3">
+      Legature
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x3">
+      Tutte le Funzioni
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x3">
+      Legature pi&#157; Comuni
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x3">
+      Nessuna Frazione
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x3">
+      Frazioni Diagonali
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x4">
+      RegelmatigCursief
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x4">
+      Alle typografische kenmerken
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x4">
+      Ligaturen
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x4">
+      Breuken
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x4">
+      Alle typekenmerken
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x4">
+      Gemeenschappelijke Ligaturen
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x4">
+      Geen breuken
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x4">
+      Diagonale breuken
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x5">
+      MagerKursiv
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x6">
+      NormalCursiva
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x9">
+      VanligKursiv
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="7" langID="0x20">
+      &#142;&#225;&#251;&#247;&#237;&#251;&#233;&#138;&#243;&#240;&#241;&#232;&#226;
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="29" langID="0x1a">
+      Norm&#135;lD&#206;lt
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x407">
+      StandardKursiv
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Created by Thatcher Ulrich (http://tulrich.com), Karoly Barta and Michael Everson with FontForge (http://fontforge.sf.net)&#10;&#10;Licensed under SIL OFL v1.1 (see LICENSE.txt)
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Tuffy
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Italic
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge : Tuffy Italic : 24-8-2011
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Tuffy Italic
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 001.270 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Tuffy-Italic
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Thatcher Ulrich, Karoly Barta and Michael Everson
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://tulrich.com&#10;
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://tulrich.com&#10;
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, and Michael Everson (http://www.evertype.com),&#10;with Reserved Font Name Tuffy.&#10;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#10;This license is copied below, and is also available with a FAQ at:&#10;http://scripts.sil.org/OFL&#10;&#10;&#10;-----------------------------------------------------------&#10;SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007&#10;-----------------------------------------------------------&#10;&#10;PREAMBLE&#10;The goals of the Open Font License (OFL) are to stimulate worldwide&#10;development of collaborative font projects, to support the font creation&#10;efforts of academic and linguistic communities, and to provide a free and&#10;open framework in which fonts may be shared and improved in partnership&#10;with others.&#10;&#10;The OFL allows the licensed fonts to be used, studied, modified and&#10;redistributed freely as long as they are not sold by themselves. The&#10;fonts, including any derivative works, can be bundled, embedded, &#10;redistributed and/or sold with any software provided that any reserved&#10;names are not used by derivative works. The fonts and derivatives,&#10;however, cannot be released under any other type of license. The&#10;requirement for fonts to remain under this license does not apply&#10;to any document created using the fonts or their derivatives.&#10;&#10;DEFINITIONS&#10;"Font Software" refers to the set of files released by the Copyright&#10;Holder(s) under this license and clearly marked as such. This may&#10;include source files, build scripts and documentation.&#10;&#10;"Reserved Font Name" refers to any names specified as such after the&#10;copyright statement(s).&#10;&#10;"Original Version" refers to the collection of Font Software components as&#10;distributed by the Copyright Holder(s).&#10;&#10;"Modified Version" refers to any derivative made by adding to, deleting,&#10;or substituting -- in part or in whole -- any of the components of the&#10;Original Version, by changing formats or by porting the Font Software to a&#10;new environment.&#10;&#10;"Author" refers to any designer, engineer, programmer, technical&#10;writer or other person who contributed to the Font Software.&#10;&#10;PERMISSION &amp; CONDITIONS&#10;Permission is hereby granted, free of charge, to any person obtaining&#10;a copy of the Font Software, to use, study, copy, merge, embed, modify,&#10;redistribute, and sell modified and unmodified copies of the Font&#10;Software, subject to the following conditions:&#10;&#10;1) Neither the Font Software nor any of its individual components,&#10;in Original or Modified Versions, may be sold by itself.&#10;&#10;2) Original or Modified Versions of the Font Software may be bundled,&#10;redistributed and/or sold with any software, provided that each copy&#10;contains the above copyright notice and this license. These can be&#10;included either as stand-alone text files, human-readable headers or&#10;in the appropriate machine-readable metadata fields within text or&#10;binary files as long as those fields can be easily viewed by the user.&#10;&#10;3) No Modified Version of the Font Software may use the Reserved Font&#10;Name(s) unless explicit written permission is granted by the corresponding&#10;Copyright Holder. This restriction only applies to the primary font name as&#10;presented to the users.&#10;&#10;4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font&#10;Software shall not be used to promote, endorse or advertise any&#10;Modified Version, except to acknowledge the contribution(s) of the&#10;Copyright Holder(s) and the Author(s) or with their explicit written&#10;permission.&#10;&#10;5) The Font Software, modified or unmodified, in part or in whole,&#10;must be distributed entirely under this license, and must not be&#10;distributed under any other license. The requirement for fonts to&#10;remain under this license does not apply to any document created&#10;using the Font Software.&#10;&#10;TERMINATION&#10;This license becomes null and void if any of the above conditions are&#10;not met.&#10;&#10;DISCLAIMER&#10;THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,&#10;EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF&#10;MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT&#10;OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE&#10;COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,&#10;INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL&#10;DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING&#10;FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM&#10;OTHER DEALINGS IN THE FONT SOFTWARE.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40a">
+      NormalCursiva
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40c">
+      NormalItalique
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40e">
+      Norm&#225;lD&#337;lt
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x410">
+      NormaleCursivo
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x413">
+      RegelmatigCursief
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x414">
+      VanligKursiv
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x419">
+      &#1054;&#1073;&#1099;&#1095;&#1085;&#1099;&#1081;&#1050;&#1091;&#1088;&#1089;&#1080;&#1074;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x41d">
+      MagerKursiv
+    </namerecord>
+  </name>
+
+</ttFont>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="C" v="-80"/>
+      <pair l="A" r="Obreve" v="-100"/>
+      <pair l="A" r="T" v="-98"/>
+      <pair l="A" r="V" v="-213"/>
+      <pair l="A" r="obreve" v="-100"/>
+      <pair l="A" r="ohungarumlaut" v="-100"/>
+      <pair l="A" r="omacron" v="-100"/>
+      <pair l="A" r="v" v="-164"/>
+      <pair l="A" r="w" v="-94"/>
+      <pair l="Aacute" r="Obreve" v="-100"/>
+      <pair l="Aacute" r="obreve" v="-100"/>
+      <pair l="Aacute" r="ohungarumlaut" v="-100"/>
+      <pair l="Aacute" r="omacron" v="-100"/>
+      <pair l="Abreve" r="O" v="-100"/>
+      <pair l="Abreve" r="Oacute" v="-100"/>
+      <pair l="Abreve" r="Obreve" v="-100"/>
+      <pair l="Abreve" r="V" v="-232"/>
+      <pair l="Abreve" r="o" v="-100"/>
+      <pair l="Abreve" r="oacute" v="-100"/>
+      <pair l="Abreve" r="obreve" v="-100"/>
+      <pair l="Abreve" r="ocircumflex" v="-100"/>
+      <pair l="Abreve" r="odieresis" v="-100"/>
+      <pair l="Abreve" r="ohungarumlaut" v="-100"/>
+      <pair l="Abreve" r="omacron" v="-100"/>
+      <pair l="Abreve" r="otilde" v="-100"/>
+      <pair l="Abreve" r="v" v="-232"/>
+      <pair l="Acircumflex" r="Obreve" v="-100"/>
+      <pair l="Acircumflex" r="obreve" v="-100"/>
+      <pair l="Acircumflex" r="ohungarumlaut" v="-100"/>
+      <pair l="Acircumflex" r="omacron" v="-100"/>
+      <pair l="Adieresis" r="Obreve" v="-100"/>
+      <pair l="Adieresis" r="obreve" v="-100"/>
+      <pair l="Adieresis" r="ohungarumlaut" v="-100"/>
+      <pair l="Adieresis" r="omacron" v="-100"/>
+      <pair l="Agrave" r="Obreve" v="-100"/>
+      <pair l="Agrave" r="obreve" v="-100"/>
+      <pair l="Agrave" r="ohungarumlaut" v="-100"/>
+      <pair l="Agrave" r="omacron" v="-100"/>
+      <pair l="Amacron" r="O" v="-100"/>
+      <pair l="Amacron" r="Oacute" v="-100"/>
+      <pair l="Amacron" r="Obreve" v="-100"/>
+      <pair l="Amacron" r="o" v="-100"/>
+      <pair l="Amacron" r="oacute" v="-100"/>
+      <pair l="Amacron" r="obreve" v="-100"/>
+      <pair l="Amacron" r="ocircumflex" v="-100"/>
+      <pair l="Amacron" r="odieresis" v="-100"/>
+      <pair l="Amacron" r="ohungarumlaut" v="-100"/>
+      <pair l="Amacron" r="omacron" v="-100"/>
+      <pair l="Amacron" r="otilde" v="-100"/>
+      <pair l="Amacron" r="v" v="-232"/>
+      <pair l="Aogonek" r="O" v="-100"/>
+      <pair l="Aogonek" r="Oacute" v="-100"/>
+      <pair l="Aogonek" r="Obreve" v="-100"/>
+      <pair l="Aogonek" r="V" v="-232"/>
+      <pair l="Aogonek" r="o" v="-100"/>
+      <pair l="Aogonek" r="oacute" v="-100"/>
+      <pair l="Aogonek" r="obreve" v="-100"/>
+      <pair l="Aogonek" r="ocircumflex" v="-100"/>
+      <pair l="Aogonek" r="odieresis" v="-100"/>
+      <pair l="Aogonek" r="ohungarumlaut" v="-100"/>
+      <pair l="Aogonek" r="omacron" v="-100"/>
+      <pair l="Aogonek" r="otilde" v="-100"/>
+      <pair l="Aogonek" r="v" v="-232"/>
+      <pair l="Aring" r="Obreve" v="-100"/>
+      <pair l="Aring" r="obreve" v="-100"/>
+      <pair l="Aring" r="ohungarumlaut" v="-100"/>
+      <pair l="Aring" r="omacron" v="-100"/>
+      <pair l="Atilde" r="Obreve" v="-100"/>
+      <pair l="Atilde" r="obreve" v="-100"/>
+      <pair l="Atilde" r="ohungarumlaut" v="-100"/>
+      <pair l="Atilde" r="omacron" v="-100"/>
+      <pair l="E" r="R" v="41"/>
+      <pair l="G" r="T" v="-68"/>
+      <pair l="K" r="O" v="-109"/>
+      <pair l="O" r="A" v="-98"/>
+      <pair l="O" r="T" v="-113"/>
+      <pair l="P" r="A" v="-137"/>
+      <pair l="T" r="A" v="-111"/>
+      <pair l="T" r="u" v="-135"/>
+      <pair l="V" r="A" v="-244"/>
+      <pair l="V" r="E" v="-70"/>
+      <pair l="V" r="e" v="-66"/>
+      <pair l="W" r="A" v="-96"/>
+      <pair l="W" r="e" v="-27"/>
+      <pair l="Y" r="A" v="-190"/>
+      <pair l="Y" r="a" v="-127"/>
+      <pair l="a" r="v" v="-123"/>
+      <pair l="backslash" r="backslash" v="-143"/>
+      <pair l="e" r="t" v="-53"/>
+      <pair l="f" r="a" v="-80"/>
+      <pair l="f" r="n" v="-68"/>
+      <pair l="f" r="o" v="-41"/>
+      <pair l="f" r="t" v="-70"/>
+      <pair l="f" r="u" v="-82"/>
+      <pair l="f" r="y" v="-41"/>
+      <pair l="f_icircumflex" r="f_idieresis" v="51"/>
+      <pair l="f_icircumflex" r="icircumflex" v="-224"/>
+      <pair l="g" r="j" v="117"/>
+      <pair l="j" r="j" v="80"/>
+      <pair l="numbersign" r="dollar" v="-55"/>
+      <pair l="o" r="x" v="-53"/>
+      <pair l="q" r="j" v="274"/>
+      <pair l="r" r="e" v="-41"/>
+      <pair l="slash" r="slash" v="-143"/>
+      <pair l="y" r="j" v="117"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
